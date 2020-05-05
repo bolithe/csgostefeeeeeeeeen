@@ -1,0 +1,5 @@
+﻿  main.cpp
+  memory.cpp
+c:\users\games\desktop\clantag\source\memory.cpp(93): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert...
+  clantag.vcxproj -> C:\Users\games\Desktop\clantag\source\Debug\clantag.exe
